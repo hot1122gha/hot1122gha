@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @hot1122gha
-- 👀 I’m interested in ...
+- 👋 Hi, I’m mk
+- 👀 I’m interested in ... love
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hot1122gha/hot1122gha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on ... my job
+- 📫 How to reach me ... never
